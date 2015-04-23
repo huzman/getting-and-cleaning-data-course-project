@@ -1,4 +1,4 @@
-Getting and Cleaning Data - Course Project
+<h2>Getting and Cleaning Data - Course Project<h2>
 
 In this repository you will find the R script "run_analysis.R" and the documentation for the course Project "Getting and Cleaning data".  
 
