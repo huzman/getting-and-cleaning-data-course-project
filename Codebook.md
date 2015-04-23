@@ -12,6 +12,8 @@ The script run_analysis.R tries to solve the 5 tasks described in the course pro
 
 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+<h2> Approach <h2>
+
 First, all the similar data is merged using the rbind() function. By similar, we address those files having the same number of columns and referring to the same entities.
 
 Then, only those columns with the mean and standard deviation measures are taken from the whole dataset. After extracting these columns, they are given the correct names, taken from features.txt.
