@@ -1,4 +1,5 @@
-Introduction
+<h1>Introduction<h1>
+
 The script run_analysis.R tries to solve the 5 tasks described in the course project's outline.
 
 First, all the similar data is merged using the rbind() function. By similar, we address those files having the same number of columns and referring to the same entities.
